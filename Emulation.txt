@@ -1,1 +1,1 @@
-$a1 = whoami
+whoami
